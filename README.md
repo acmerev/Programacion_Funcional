@@ -15,7 +15,7 @@ Intentemos dominar esta disciplina y no alterar ninguna variable u objeto en nue
 Completa el código de la función incrementer para que devuelva el valor de la variable global fixedValue incrementada en uno.
 examples book ruby by chris
 
-'''bash
+```html
 
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
@@ -77,4 +77,4 @@ examples book ruby by chris
   </form>
 </div>
 
-'''
+```
