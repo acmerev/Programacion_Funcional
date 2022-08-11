@@ -78,3 +78,6 @@ examples book ruby by chris
 </div>
 
 ```
+
+## Functional Programming Principles in Scala: Setting up IntelliJ
+
